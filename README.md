@@ -313,12 +313,3 @@ Potential upgrades for extending the project further:
 
 ---
 
-## License
-This project is distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
-
----
-
-## Contact
-**Author:** Yashpal Saini  
-For portfolio presentation, project adaptation, or analytics showcase use.
-
